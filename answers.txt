@@ -10,7 +10,9 @@ What does fast-forward in Git mean?
 	
 Why should you have different branches?
 
-	Different branches allow you to 
+	Different branches allow you to work multiple features off of the master branch without having to modify the 
+	working version on master. This also allows you to always maintain a working copy that will be available anytime
+	on master.
 
 In a project how many remote Git repositories do you usually have?
 
